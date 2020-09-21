@@ -19,51 +19,27 @@
   :dart: Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong><br>
   ⚡ Bancos de dados: MySQL Server, MariaDB, PostgresSQL, SQLlite, MongoDB.
 </p>
-<hr>
+
 <p align="left">
   🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
 </p>
-<hr>
+
 <p align="left">
 📫  Deseja falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
-<div style=display:inline-block>
- 
-  
+
  <span align=left>
+ 
  <a href="mailto:luizcarlos_costam@hmtail.com" alt="Hotmail">
- <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
-</a>
- </span>
-
- <span align=left>
+  <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
+ </a>
  
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
+  <a href="https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+ </a>
 
-  </span>
-
-</div>  
-
-
+</span>  
 
 
-<!--
-**luizmoitinho/luizmoitinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-  - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-  - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
