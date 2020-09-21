@@ -13,7 +13,7 @@
 
 <h3>:rocket: Skills</h3>
 <p align="left">
-  :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, Node JS,Java e Python.</strong> <br>
+  :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, Node JS, Java e Python.</strong> <br>
   :dart: Front-end: <strong>React JS, HTML 5, CSS, Bootstrap, Jquery e JavaScript.</strong><br>
  ⚡ Bancos de dados: <strong>MySQL Server, MariaDB, PostgresSQL, SQLlite e MongoDB.</strong>
 </p>
