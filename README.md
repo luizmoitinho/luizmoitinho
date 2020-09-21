@@ -6,8 +6,8 @@
   Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b> Atualmente sou desenvolvedor no <b><a href="www.nippec.com">NIPPEC</a></b> e presto serviços como <b>Freelancer</b> no desenvolvimento de sistemas.
 </p>
 <p align="left">
-  :heavy_check_mark: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>, onde iniciei como desenvolvedor.
-  :heavy_check_mark: Busco sempre estar engajado em projetos que possam me trazer novas experiências e aprendizados, 
+  :heavy_check_mark: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>, onde iniciei como desenvolvedor.<br>
+  :heavy_check_mark: Em busca de estar engajado em projetos que possam me trazer novas experiências e aprendizados.
 </p>
 <p>
 </p>
