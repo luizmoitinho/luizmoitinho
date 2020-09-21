@@ -3,8 +3,8 @@
  
 <img align=right src=devices.gif min-width="400px" max-width="400px" width="400px" align="right" alt="Devices LuizMoitinho">
 <p align="left">
-  Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b> Sou desenvolvedor no <b><a href="www.nippec.com">NIPPEC</a></b> e presto serviços como <b>Freelancer</b> desenvolvendo soluções de software.<Br>
-<br>  <b>:registered: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>.<br>
+  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web</strong> e ingressante no desenvolvimento de <strong>API</strong> Rest e Arquitetura DDD. Atualmente estou cursando Sistemas de Informação na <b>Universidade Federal de Sergipe.</strong> Sou desenvolvedor no <strong><a href="www.nippec.com">NIPPEC</a></strong> e presto serviços como <strong>Freelancer</strong> desenvolvendo soluções de software.<Br>
+<br><strong>:registered: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></strong>.<br>
  <hr>
 </p>
 <!-- <p align="left">
