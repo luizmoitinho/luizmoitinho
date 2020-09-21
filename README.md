@@ -4,13 +4,18 @@
  <img align=right src=devices.gif min-width="300px" max-width="300px" width="300px" align="right" alt="Devices LuizMoitinho">
  
 <p align="left">
-  Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Estou cursando Sistemas de Informação na <b>Universidade Federal de Sergipe</b>
+  Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b>
+</p>
+### :rocket: Skills
+<p align="left">
+  :computer: Back-end: <strong>PHP 7, C#, Node JS,Java </strong> <br>
+  :dart : Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong>
+ 
 </p>
 
 <div style=display:inline-block>
   
   <span align=left>
-    
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
 
