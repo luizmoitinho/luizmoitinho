@@ -4,34 +4,42 @@
 <img align=right src=devices.gif min-width="300px" max-width="300px" width="300px" align="right" alt="Devices LuizMoitinho">
 <p align="left">
   Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b> Atualmente sou desenvolvedor no <b><a href="www.nippec.com">NIPPEC</a></b> e presto serviços como <b>Freelancer</b> no desenvolvimento de sistemas.<Br>
+<br>  <b>:registered: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>.<br><b>
  <hr>
- <b>:registered: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>.<br><b>
 </p>
 <p align="left">
-  :heavy_check_mark: Em busca de estar em projetos que possam me trazer novas experiências e aprendizados.
-  :heavy_check_mark: Uma mente aberta para sempre que possível re-aprender.
+  :heavy_check_mark: Em busca de projetos que possam me trazer novas experiências e aprendizados.<br>
+  :heavy_check_mark: Uma mente aberta para sempre que possível re-aprender.<br>
 </p>
 <p>
 </p>
 <h3>:rocket: Skills</h3>
 <p align="left">
   :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, Node JS,Java e Python</strong> <br>
-  :dart: Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong>
+  :dart: Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong><br>
+  ⚡ Bancos de dados: MySQL Server, MariaDB, PostgresSQL, SQLlite, MongoDB.
 </p>
-
+<hr>
 <p align="left">
   🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
 </p>
-
+<hr>
 <p align="left">
 📫  Deseja falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
 <div style=display:inline-block>
-  
-  <span align=left>
  
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
+  
+ <span align=left>
+ <a href="mailto:luizcarlos_costam@hmtail.com" alt="Hotmail">
+ <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
+</a>
+ </span>
+
+ <span align=left>
+ 
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
 
   </span>
 
