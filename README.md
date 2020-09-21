@@ -1,6 +1,14 @@
 ### 😄 Moitinho, quem vos fala 👋
 
-<div style=display:inline>
+
+ <img align=right src=devices.gif min-width="400px" max-width="400px" width="400px" align="right" alt="Devices LuizMoitinho">
+ 
+<p align="left">
+  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
+  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+</p>
+
+<div style=display:inline-block>
   
   <span align=left>
     
@@ -14,10 +22,11 @@
   - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
   </span>
- 
-   <img align=right src=devices.gif width="300px">
-  
+
 </div>  
+
+
+
 
 <!--
 **luizmoitinho/luizmoitinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
