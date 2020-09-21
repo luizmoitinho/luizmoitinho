@@ -1,7 +1,7 @@
 ### 😄 Moitinho, quem vos fala 👋
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
  
-<img align=right src=devices.gif min-width="300px" max-width="300px" width="300px" align="right" alt="Devices LuizMoitinho">
+<img align=right src=devices.gif min-width="400px" max-width="400px" width="400px" align="right" alt="Devices LuizMoitinho">
 <p align="left">
   Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b> Sou desenvolvedor no <b><a href="www.nippec.com">NIPPEC</a></b> e presto serviços como <b>Freelancer</b> desenvolvendo soluções de software.<Br>
 <br>  <b>:registered: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>.<br>
@@ -31,7 +31,7 @@
 
  <span align=left>
  
- <a href="mailto:luizcarlos_costam@hmtail.com" alt="Hotmail">
+ <a href="mailto:luizcarlos_costam@hotmail.com" alt="Hotmail">
   <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
  </a>
  
