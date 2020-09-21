@@ -1,22 +1,35 @@
 ### 😄 Moitinho, quem vos fala 👋
-
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
+ 
 <img align=right src=devices.gif min-width="300px" max-width="300px" width="300px" align="right" alt="Devices LuizMoitinho">
 <p align="left">
-  Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b>
+  Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b> Atualmente sou desenvolvedor no <b><a href="www.nippec.com">NIPPEC</a></b> e presto serviços como <b>Freelancer</b> no desenvolvimento de sistemas.
+</p>
+<p align="left">
+  :heavy_check_mark: Ex-Diretor de Projetos e Vendas da <b><a href="http://itatechjr.com.br/">ITATECH JR</a></b>, onde iniciei como desenvolvedor.
+  :heavy_check_mark: Busco sempre estar engajado em projetos que possam me trazer novas experiências e aprendizados, 
+</p>
+<p>
 </p>
 <h3>:rocket: Skills</h3>
 <p align="left">
-  :computer: Back-end: <strong>PHP 7, C#, Node JS,Java </strong> <br>
+  :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, Node JS,Java e Python</strong> <br>
   :dart: Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong>
- 
+</p>
+
+<p align="left">
+  🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
+</p>
+
+<p align="left">
+📫  Deseja falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
 <div style=display:inline-block>
   
   <span align=left>
  
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/)
 
   </span>
 
