@@ -4,7 +4,7 @@
 <p align="left">
   Olá, sou o Luiz Moitinho <b>desenvolvedor Full-Stack Web</b> e ingressante no desenvolvimento de <b>API</b> Rest e Arquitetura DDD. Atualmente estou cursando   Sistemas de Informação na <b>Universidade Federal de Sergipe.</b>
 </p>
- <b>:rocket: Skills</b>
+<h3>:rocket: Skills</h3>
 <p align="left">
   :computer: Back-end: <strong>PHP 7, C#, Node JS,Java </strong> <br>
   :dart: Front-end: <strong>React JS, HTML 5, CSS, BootStrap, Jquery, JavaScript </strong>
