@@ -22,7 +22,9 @@
   🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
 </p>
 -->
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luizmoitinho&show_icons=true" alt="luizmoitinho"/> 
+</p>
 <p align="center">
 📫  Deseja falar comigo? entre em contato em um dos links abaixo.
 </p>
