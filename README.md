@@ -23,22 +23,28 @@
   🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
 </p>
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luizmoitinho&show_icons=true" alt="luizmoitinho"/> 
+</p>
+<p align="center">
 📫  Deseja falar comigo? entre em contato em um dos links abaixo.
 </p>
 
 
- <span align=left>
+
+ <p align=center>
  
- <a href="mailto:luizcarlos_costam@hotmail.com" alt="Hotmail">
+ <a align="center" href="mailto:luizcarlos_costam@hotmail.com" alt="Hotmail">
   <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
  </a>
  
-  <a href="https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/" alt="Linkedin">
+  <a align="center" href="https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
  </a>
- <a align="left"> <img src="https://komarev.com/ghpvc/?username=luizmoitinho" alt="luizmoitinho" /> </a>
-</span>  
+ <a align="center"> <img src="https://komarev.com/ghpvc/?username=luizmoitinho" alt="luizmoitinho" /> </a>
+</p>  
+
+
 
 
 
