@@ -1,5 +1,6 @@
 ### 😄 Moitinho, quem vos fala 👋
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
+
  
 <img align=right src=devices.gif min-width="350px" max-width="350px" width="350px" align="right" alt="Devices LuizMoitinho">
 <p align="left">
@@ -36,7 +37,7 @@
   <a href="https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
  </a>
-
+ <a align="left"> <img src="https://komarev.com/ghpvc/?username=luizmoitinho" alt="luizmoitinho" /> </a>
 </span>  
 
 
