@@ -1,6 +1,6 @@
 ### 😄 Moitinho, quem vos fala 👋
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
-
+                                                                                                        
 <p align="left">
   Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web</strong> e ingressante no desenvolvimento de <strong>API</strong> Rest e Arquitetura DDD. Sou desenvolvedor no <strong><a href="www.nippec.com">NIPPEC</a></strong> e <strong>Freelancer</strong> desenvolvendo soluções de software.<Br>
 <br>:registered: Ex-Diretor de Projetos e Vendas da <strong><a href="http://itatechjr.com.br/">ITATECH JR</a></strong>.<br>
@@ -22,9 +22,7 @@
   🔥 Estudando: <strong>Node.JS, TypeScript, ASP.NET Core, Entity Framework, Docker, APIs Restfull.</strong>
 </p>
 -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luizmoitinho&show_icons=true" alt="luizmoitinho"/> 
-</p>
+
 <p align="center">
 📫  Deseja falar comigo? entre em contato em um dos links abaixo.
 </p>
