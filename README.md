@@ -14,7 +14,7 @@
 <p align="left">
   :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, Node JS, Java e Python.</strong> <br>
   :dart: Front-end: <strong>React JS, HTML 5, CSS, Bootstrap, Jquery e JavaScript.</strong><br>
- ⚡ Bancos de dados: <strong>MySQL Server, MariaDB, PostgresSQL, SQLlite e MongoDB.</strong>
+ ⚡ Bancos de dados: <strong>MySQL Server, SQL Server,  MariaDB e PostgresSQL.</strong>
 </p>
 
 <!--
