@@ -3,7 +3,6 @@
                                                                                                         
 <p align="left">
   Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web</strong> e ingressante no desenvolvimento de <strong>API</strong> Rest e Arquitetura DDD. Sou desenvolvedor no <strong><a href="www.nippec.com">NIPPEC</a></strong> e <strong>Freelancer</strong> nas horas vagas.<Br>
-<br>:registered: Ex-Diretor de Projetos e Vendas da <strong><a href="http://itatechjr.com.br/">ITATECH JR</a></strong>.<br>
 </p>
 <!-- <p align="left">
   :heavy_check_mark: Em busca de projetos que possam me trazer novas experiências e aprendizados.<br>
