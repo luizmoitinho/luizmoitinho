@@ -2,7 +2,7 @@
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
                                                                                                         
 <p align="left">
-  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web</strong> e ingressante no desenvolvimento de <strong>API</strong> Rest e GraphQL, tenho interesse no processo de desenvolvimento, padronização e arquitetura de software.
+  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web</strong> e possuo experiência em desenvolvimento de Softwares, <strong>APIs</strong> Rest e GraphQL. Tenho interesse no processo de desenvolvimento, padronização e arquitetura de software.
 </p>
 <!-- <p align="left">
   :heavy_check_mark: Em busca de projetos que possam me trazer novas experiências e aprendizados.<br>
