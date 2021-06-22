@@ -1,13 +1,19 @@
-### 😄 Moitinho, quem vos fala 👋
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/luizmoitinho)
-                                                                                                        
+<h2 align="center"> 
+ 😄 Hi, I'am Luiz Moitinho 👋 
+</h2>
+
+<h3>
+  Software Developer from Brazil
+</h3>
+
 <p align="left">
-  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web e Back-end</strong> e possuo experiência em desenvolvimento de Softwares, microsservices, <strong>APIs</strong> Rest e GraphQL. Tenho interesse no processo de Desenvolvimento, Padrões de Projeto, Arquitetura de Software, Engenharia de Software e Escalabilidade.
+  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web e Back-end</strong> e possuo experiência em desenvolvimento de Softwares, microsservices, <strong>APIs</strong> Rest e GraphQL. Tenho interesse e habilidades em Padrões de Projeto, Arquitetura de Software, Engenharia de Software e Escalabilidade.
 </p>
 <p align="left">
   :heavy_check_mark: Pesquisador IC na UFS.<br>
 </p>
 
+---
 <h3>:rocket: Skills</h3>
 <p align="left">
   :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, ASP .NET CORE, Java, Python, Golang e Ruby on Rails.</strong> <br>
