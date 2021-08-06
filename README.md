@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web e Back-end</strong> e possuo experiência em desenvolvimento de Softwares, microsservices, <strong>APIs</strong> Rest e GraphQL. Tenho interesse e habilidades em Padrões de Projeto, Arquitetura de Software, Engenharia de Software e Escalabilidade.
+  Olá, sou o Luiz Moitinho <strong>desenvolvedor Full-Stack Web e Back-end</strong>, possuo experiência em desenvolvimento de Softwares, microsservices, <strong>APIs</strong> Rest e GraphQL. Tenho interesse e habilidades em Padrões de Projeto, Arquitetura de Software, Engenharia de Software e Escalabilidade.
 </p>
 <p align="left">
   :heavy_check_mark: Pesquisador IC na UFS.<br>
