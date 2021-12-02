@@ -3,7 +3,7 @@
 </h2>
 
 <h3>
-  Software Developer from Brazil
+  Back-end Engineer from Brazil
 </h3>
 
 <p align="left">
