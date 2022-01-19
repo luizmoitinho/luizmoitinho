@@ -1,48 +1,98 @@
-<h2 align="center"> 
- Hi, I'am Luiz Moitinho!!
-
-<h3>
-  Back-end Engineer from Brazil
-</h3>
-
-<p align="left">
-  I'm a Software Engineer who loves technologies and solving problems. Also, I like to design, architect and building large and scalable solutions.
+### <div align="center">I'm Luiz Moitinho, a Software Engineer 👨‍💻, I'm programming since 2015 🚀</div>  
   
-  Areas of interest: Microsservices, APIs(Rest and GraphQL), Software architecture, Software Engineer, Scalability and Observability
+
+- I'm a Software Engineer who loves technologies and solving problems  
   
-</p>
-<p align="left">
-  :heavy_check_mark: Former UFS Scientific Initiation Researcher <br>
-</p>
 
----
-<h3>:rocket: Skills</h3>
-<p align="left">
-  :computer: Back-end: <strong>PHP 7, CodeIgniter, C#, ASP .NET CORE, Java, Python, Golang e Ruby on Rails.</strong> <br>
-  :dart: Front-end: <strong>HTML 5, CSS, Bootstrap, Jquery e JavaScript.</strong><br>
- ⚡ Bancos de dados: <strong>MySQL Server, SQL Server, MongoDB, MariaDB e PostgresSQL.</strong>
-</p>
+- 🛡️ I like to design, architect and building large and scalable solutions.  
+  
 
-<p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizmoitinho&theme=cobalt&show_icons=true&locale=en" alt="luizmoitinho" />
-</p>
-<p align="center">
-📫  Deseja falar comigo? entre em contato em um dos links abaixo.
-</p>
+- ⚡  Areas of interest: Microsservices, APIs(Rest and GraphQL), Software architecture, Software Engineer, Scalability and Observability  
+  
 
- <p align=center>
- 
- <a align="center" href="mailto:luizcarlos_costam@hotmail.com" alt="Hotmail">
-  <img src=https://img.shields.io/badge/Hotmail-luizcarlos__costam%40hotmail.com-red>
- </a>
- 
-  <a align="center" href="https://www.linkedin.com/in/luiz-carlos-costa-moitinho-60878b176/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
- </a>
- <a align="center"> <img src="https://komarev.com/ghpvc/?username=luizmoitinho" alt="luizmoitinho" /> </a>
-</p>  
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
 
 
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Database and Others  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=luizmoitinho&&style=flat-square" align="center" />
+</div>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luizmoitinho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/luizmoitinho" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/luizmoitinho" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/luizmoitinho" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br/>  
