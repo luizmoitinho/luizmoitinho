@@ -1,16 +1,18 @@
 <h2 align="center"> 
- 😄 Hi, I'am Luiz Moitinho 👋 
-</h2>
+ Hi, I'am Luiz Moitinho!!
 
 <h3>
   Back-end Engineer from Brazil
 </h3>
 
 <p align="left">
-  Olá, sou o Luiz Moitinho, possuo experiência em desenvolvimento de Softwares, microsservices, <strong>APIs</strong> Rest e GraphQL. Tenho interesse e habilidades em Padrões de Projeto, Arquitetura de Software, Engenharia de Software e Escalabilidade.
+  I'm a Software Engineer who loves technologies and solving problems. Also, I like to design, architect and building large and scalable solutions.
+  
+  Areas of interest: Microsservices, APIs(Rest and GraphQL), Software architecture, Software Engineer, Scalability and Observability
+  
 </p>
 <p align="left">
-  :heavy_check_mark: Pesquisador IC na UFS.<br>
+  :heavy_check_mark: Former UFS Scientific Initiation Researcher <br>
 </p>
 
 ---
