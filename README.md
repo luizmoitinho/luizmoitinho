@@ -7,7 +7,7 @@
 - 🛡️ I like to design, architect and building large and scalable solutions.  
   
 
-- ⚡  Areas of interest: Microsservices, APIs(Rest and GraphQL), Software architecture, Software Engineer, Scalability and Observability  
+- ⚡  Areas of interest: Microsservices, APIs (Rest and GraphQL), Software architecture, Software Engineer, Scalability and Observability  
   
 
 <br/>  
